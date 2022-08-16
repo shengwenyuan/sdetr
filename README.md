@@ -12,7 +12,10 @@ Our designs are based on the code of DETR. To preclude all the influences beyond
 ## Models
 Because of limited resources, we implement most of experiments based on tiny-scaled input version and they can not be a convincing results to prove any performance. Here we trained the full-scaled input version with 150 epochs.  
 Download url: <https://pan.baidu.com/s/1nVBXlQVYrZ1o88JV2nb6uQ> Token: 0000  
-We will provide a new version with 500 epochs in future. 
+  
+2022/8/16 Update  
+The full-scaled input version with 500 epochs  
+Download url: <https://pan.baidu.com/s/1rd9DFTaQc7ZmtYHJ6FPZPg?pwd=0000> Token:0000
 
 
 ## Usage
